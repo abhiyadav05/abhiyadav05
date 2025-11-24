@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 🙋, I'm Abhishek Yadav</h1>
-<h3 align="center">An aspiring Data Analyst with a strong foundation in Python, Pandas, and NumPy, driven by a passion for AI and Frontend Development. Currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence, I am dedicated to Competitive Programming.</h3>
+<h3 align="center">Hey there! I am Abhishek Yadav, a developer who enjoys turning ideas into real products. I am currently diving deeper into System Design, Backend Engineering, AI, and DSA, and I share whatever I learn along the journey.
+Let’s build cool stuff together 🚀</h3>
 <img id="luffy" align="right" alt="Motivation"  width="460"src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="abhiyadav05" /> </p>
 
