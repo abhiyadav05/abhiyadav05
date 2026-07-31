@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/15mpEVGnZn6JI2jc5sJftn6zxDVdHgmhy/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1jVyGhc0dAtlkFSHAOBIUMdTcy2uYOylm/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -96,22 +96,6 @@ const abhishek = {
 - 🖼️ Images stored & served via **ImageKit CDN**, reducing load time by **40%**
 - 🎨 Code syntax highlighting for **15+ languages** using **Prism.js**
 - 💬 Persistent chat history with real-time **OpenAI API** integration
-
----
-
-### 💬 [Talkify](https://github.com/abhiyadav05) — Real-Time Chat Microservices App
-> *Production-grade chat with microservices, message queues, and real-time sockets.*
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-- ⚡ Low-latency bidirectional communication via **Socket.io**
-- 📧 Email OTP login via **Nodemailer** — OTPs stored in **Redis** with TTL-based expiry
-- 📨 **RabbitMQ** decouples auth & email services for async delivery, improving fault tolerance
-- 🏗️ Built on true **microservices architecture** for independent scaling
 
 ---
 
@@ -194,7 +178,7 @@ const abhishek = {
 <br/><br/>
 
 📫 **Reach me at:** abhshekyadav95065@gmail.com  
-📄 **My Resume:** [View Here](https://drive.google.com/file/d/15mpEVGnZn6JI2jc5sJftn6zxDVdHgmhy/view?usp=sharing)
+📄 **My Resume:** [View Here](https://drive.google.com/file/d/1jVyGhc0dAtlkFSHAOBIUMdTcy2uYOylm/view?usp=sharing)
 
 </div>
 
