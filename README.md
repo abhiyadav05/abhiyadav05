@@ -1,193 +1,99 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+full-stack+products+%F0%9F%9A%80;MERN+Stack+%7C+System+Design+%7C+Cloud+%E2%98%81%EF%B8%8F;Competitive+Coder+%7C+1400%2B+Problems+Solved+%F0%9F%8F%86;Let%27s+build+cool+stuff+together!" alt="Typing SVG" />
-</a>
+B.Tech CSE (Artificial Intelligence) at IET Lucknow · CGPA 9.13 / 10 · Lucknow, India
 
-<br/>
+I build scalable full-stack products and AI-powered applications, with a focus on backend engineering, system design, and agentic AI.
 
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abhiyadav05&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://linkedin.com/in/abhishek-yadav-637136257">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:abhshekyadav95065@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1jVyGhc0dAtlkFSHAOBIUMdTcy2uYOylm/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-637136257)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhshekyadav95065@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://iam-abhishek-yadav.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://iam-abhishek-yadav.vercel.app/Abhishek_Yadav_Resume.pdf)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Experience
 
-```typescript
-const abhishek = {
-  name        : "Abhishek Yadav",
-  role        : "Full Stack Developer",
-  college     : "IET Lucknow — B.Tech CSE (AI) | CGPA: 9.11/10",
-  location    : "Lucknow, India 🇮🇳",
-  currentFocus: ["System Design", "Backend Engineering", "AI", "DSA"],
-  funFact     : "I have the ability to make anyone laugh 😁",
-  philosophy  : "Turn ideas into real products that scale 🚀",
-};
-```
+**Full Stack Developer Intern** · DigiGo Plus Marketing Pvt. Ltd. · *Jul 2026 – Sep 2026 (Remote)*
+
+- Built 15+ UI features for a healthcare web app using Next.js, Tailwind CSS, and shadcn/ui, with embedded AI capabilities.
+- Integrated 10+ Django REST Framework APIs with the frontend and SQLite, improving application reliability by 20%.
+- Worked with the AI team on a healthcare support agent: LLM fine-tuning, vector embeddings for retrieval, and web search tools.
+- Added Zod-based validation that reduced invalid submissions by 35%, and managed 30+ tasks using Git, GitHub, and Jira.
+
+---
+
+## 🚀 Projects
+
+### RailInfo — AI Train Tracking Agent
+Natural-language queries about trains, returning real-time location, route, weather, and destination details.
+**Stack:** Next.js, TypeScript, LangChain, LangGraph, RAG, Pydantic, MapLibre GL, OpenWeather
+
+[![Live](https://img.shields.io/badge/Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://rail-info-iota.vercel.app/)
+[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiyadav05/railinfo)
+
+### Hostly — Self-Hosted Deployment Platform
+Paste a GitHub repo URL and Hostly builds, containerizes, and deploys it via Docker, Amazon ECR, and Amazon ECS, reducing deployment effort by 80%. A custom Node.js reverse proxy for S3-hosted builds improved response time by 30%.
+**Stack:** React.js, TypeScript, Tailwind CSS, Clerk, Node.js, Express.js, Docker, AWS (ECR, ECS, S3), CI/CD
+
+[![Live](https://img.shields.io/badge/Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://hostly-pearl.vercel.app/)
+[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiyadav05/hostly)
+
+### Talkify — AI Chat & Image Generation App
+Real-time OpenAI conversations supporting 100+ concurrent users, with persistent chat history. Secured with cookie-based JWT and bcrypt.
+**Stack:** React.js, TypeScript, Node.js, Express.js, MongoDB, OpenAI API, ImageKit CDN, Prism.js
+
+[![Live](https://img.shields.io/badge/Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chat-image-generator.vercel.app/)
+[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiyadav05/My-GPT)
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | C++, Python, JavaScript, TypeScript, HTML, CSS |
+| **Frameworks & Libraries** | React.js, Next.js, Node.js, Express.js, Django, Tailwind CSS, REST APIs, Zod |
+| **Agentic AI & LLM Tools** | LangChain, LangGraph, LangSmith, RAG, Vector DB, Prompt Engineering |
+| **Databases & Messaging** | MongoDB, MySQL, SQLite, Redis, RabbitMQ |
+| **Cloud & DevOps** | AWS (S3, ECS, ECR, IAM), Docker, CI/CD, Vercel |
+| **Tools & Platforms** | Git, GitHub, Jira, Postman, VS Code |
+| **CS Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks, System Design (LLD & HLD) |
 
 ---
 
 ## 🏆 Competitive Programming
 
-<div align="center">
+| Platform | Achievement |
+|:--|:--|
+| **LeetCode** | Rating 1858 · Knight badge · Top 6.2% globally · Worldwide Rank 541 in Biweekly Contest 187 (31,000+ participants) |
+| **Codeforces** | Specialist · Max Rating 1415 · Global Rank 1861 in Round 1037 Div. 3 (25,000+ contestants) |
+| **CodeChef** | 3-Star · Peak Rating 1658 · International Rank 211 in Starters 224 (17,000+ candidates) |
+| **Google — The Big Code** | Selected in Top 15,000 candidates nationwide (2026) |
 
-| Platform | Achievement | Rating / Rank |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | 🟦 **Specialist** — Max Rating **1415** | Global Rank **#1861** in Round 1037 Div.3 (25K+ contestants) |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | ⭐⭐⭐ **3-Star** — Peak Rating **1658** | International Rank **#211** in Starters 224 (17K+ candidates) |
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> | 🟡 **Rating 1692** — 650+ problems solved | Worldwide Rank **#827** in Biweekly Contest 165 (31K+ participants) |
-| <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /> | 🏅 **The Big Code — Google** | Selected in **Top 15,000** nationwide (2026) |
+Solved **1300+ DSA problems** across LeetCode, Codeforces, and CodeChef.
 
-> **1,200+ problems solved** across all platforms combined 🔥
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 [Hostly](https://github.com/abhiyadav05) — Self-Hosted Deployment Platform
-> *Paste a GitHub URL → Live production server. Zero manual steps.*
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-- 🔐 OAuth & email auth via **Clerk** — personal dashboard to manage all deployments
-- 🐳 Each deployment auto-**containerized with Docker**, pushed to **Amazon ECR**, orchestrated via **Amazon ECS**
-- ⚡ Custom **Node.js reverse-proxy** routes traffic to **S3-hosted** build outputs with sub-second response times
-- ✅ Eliminates **100% of manual deployment effort** in a scalable, fault-tolerant environment
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/abhshekyadav95065)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhshekyadav95065)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhishek95065)
 
 ---
 
-### 🤖 [My-GPT](https://github.com/abhiyadav05) — AI Chat & Image Generation App
-> *Real-time OpenAI conversations + image generation for 100+ concurrent users.*
+## 🎓 Education
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-- 🔒 Cookie-based JWT + bcrypt auth — **zero authentication vulnerabilities** in production
-- 🖼️ Images stored & served via **ImageKit CDN**, reducing load time by **40%**
-- 🎨 Code syntax highlighting for **15+ languages** using **Prism.js**
-- 💬 Persistent chat history with real-time **OpenAI API** integration
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases & Messaging
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+| Institution | Degree | Year | Score |
+|:--|:--|:--:|:--:|
+| IET Lucknow | B.Tech — CSE (Artificial Intelligence) | 2023 – 2027 | CGPA 9.13 / 10 |
+| Govt. Polytechnic Bijnor | Diploma — Computer Science & Engineering | 2021 – 2024 | 82% · 🥇 Gold Medalist |
 
 ---
 
 
+## 📫 Get in Touch
 
----
+Open to internships and full-time opportunities. Reach me at **abhshekyadav95065@gmail.com** or on [LinkedIn](https://linkedin.com/in/abhishek-yadav-637136257).
 
-## 🎓 Education & Honors
-
-| 🏛️ Institution | 🎓 Degree | 📅 Year | 🏅 Score |
-|:---|:---|:---:|:---:|
-| IET Lucknow | B.Tech — CSE (Artificial Intelligence) | 2023–2027 | **CGPA 9.11 / 10** |
-| Govt. Polytechnic Bijnor | Diploma — Computer Science & Engineering | 2021–2024 | **82% 🥇 Gold Medalist** |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/abhishek-yadav-637136257">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.leetcode.com/abhshekyadav95065">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/abhshekyadav95065">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/abhishek95065">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-&nbsp;
-
-<br/><br/>
-
-📫 **Reach me at:** abhshekyadav95065@gmail.com  
-📄 **My Resume:** [View Here](https://drive.google.com/file/d/1jVyGhc0dAtlkFSHAOBIUMdTcy2uYOylm/view?usp=sharing)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-*"The best way to predict the future is to build it."* 🚀
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
