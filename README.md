@@ -17,7 +17,8 @@ I build scalable full-stack products and AI-powered applications, with a focus o
 
 ## 💼 Experience
 
-**Full Stack Developer Intern** · DigiGo Plus Marketing Pvt. Ltd. · *Jul 2026 – Sep 2026 (Remote)*
+### Nexopsdev Technologies &nbsp;&nbsp; <a href="https://drive.google.com/file/d/17ugAEhYcZk9zr_aqPmjUGz2x-SLdAcpq/view?usp=sharing"><img src="https://img.shields.io/badge/Completion%20Certificate-10B981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Completion Certificate" width="210" align="center" /></a>
+**Full Stack Developer Intern** · *Jul 2026 – Sep 2026 (Remote)*
 
 - Built 15+ UI features for a healthcare web app using Next.js, Tailwind CSS, and shadcn/ui, with embedded AI capabilities.
 - Integrated 10+ Django REST Framework APIs with the frontend and SQLite, improving application reliability by 20%.
